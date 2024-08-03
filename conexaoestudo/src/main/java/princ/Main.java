@@ -20,7 +20,7 @@ public class Main {
         }
 
         PessoaDAO dao = new PessoaDAO();
-        dao.inserirPessoa("DAYANA"); // Insere uma pessoa com o nome "DAYANA"
+        dao.inserirPessoa("REBECA"); // Insere uma pessoa com o nome "DAYANA"
     }
 
 }
